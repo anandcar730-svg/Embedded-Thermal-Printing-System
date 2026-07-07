@@ -1,4 +1,4 @@
-# 🖨️ Embedded Thermal Printing Automation System
+#  Embedded Thermal Printing Automation System
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-4-C51A4A?logo=raspberrypi)
@@ -11,15 +11,15 @@ An embedded automation system built using **Raspberry Pi 4**, **Arduino Nano**, 
 
 ---
 
-## 📸 Project Preview
+##  Project Preview
 
 ### Prototype
 
-![Prototype](Images/Prototype.png)
+![Prototype](Prototype.jpeg)
 
 ### Telegram Bot
 
-![Telegram Bot](Images/Telegram_Bot.png)
+![Telegram Bot](Prototype.png)
 
 ### Wiring Setup
 
@@ -31,7 +31,7 @@ An embedded automation system built using **Raspberry Pi 4**, **Arduino Nano**, 
 
 ---
 
-# 📖 Overview
+#  Overview
 
 This project combines embedded hardware and software to create a wireless thermal printing system capable of receiving print commands remotely and controlling peripherals through GPIO.
 
@@ -39,7 +39,7 @@ The system was developed using Raspberry Pi, Arduino Nano, Python, and Linux, ma
 
 ---
 
-# ✨ Features
+#  Features
 
 - Wireless printing using Telegram Bot
 - Raspberry Pi and Arduino communication
@@ -54,7 +54,7 @@ The system was developed using Raspberry Pi, Arduino Nano, Python, and Linux, ma
 
 ---
 
-# 🛠 Hardware Components
+#  Hardware Components
 
 | Component | Description |
 |-----------|-------------|
@@ -70,7 +70,7 @@ The system was developed using Raspberry Pi, Arduino Nano, Python, and Linux, ma
 
 ---
 
-# 💻 Software Stack
+#  Software Stack
 
 - Python
 - Arduino IDE
@@ -82,7 +82,7 @@ The system was developed using Raspberry Pi, Arduino Nano, Python, and Linux, ma
 
 ---
 
-# ⚙️ System Architecture
+#  System Architecture
 
 ```text
 Telegram User
@@ -104,7 +104,7 @@ Relay • LEDs • Buttons • Buzzer
 
 ---
 
-# 🔄 Working Principle
+#  Working Principle
 
 1. User sends a print request through Telegram.
 2. Raspberry Pi receives the command.
@@ -117,7 +117,7 @@ Relay • LEDs • Buttons • Buzzer
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```text
 Embedded-Thermal-Printing-System/
@@ -133,7 +133,7 @@ Embedded-Thermal-Printing-System/
 
 ---
 
-# 🚀 Applications
+#  Applications
 
 - Queue Token Printing
 - Hospital Token System
@@ -145,7 +145,7 @@ Embedded-Thermal-Printing-System/
 
 ---
 
-# 🎯 Skills Demonstrated
+#  Skills Demonstrated
 
 - Embedded Systems
 - Raspberry Pi
@@ -162,7 +162,7 @@ Embedded-Thermal-Printing-System/
 
 ---
 
-# 📈 Future Improvements
+#  Future Improvements
 
 - Web Dashboard
 - QR Code Printing
@@ -174,17 +174,9 @@ Embedded-Thermal-Printing-System/
 
 ---
 
-# 📷 Demo
 
-> Add your demonstration video here.
 
-Example:
-
-https://youtu.be/your-video-link
-
----
-
-# 👨‍💻 Author
+#  Author
 
 **Anand S**
 
@@ -192,10 +184,9 @@ B.Tech – Mechatronics Engineering
 
 📍 Thiruvananthapuram, Kerala
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/anandcar730-svg
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://linkedin.com/in/anand-s-63994925
 
 ---
 
-# ⭐ If you found this project useful, please consider giving it a star!
