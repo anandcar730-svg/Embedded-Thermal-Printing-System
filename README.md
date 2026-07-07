@@ -15,7 +15,7 @@ An embedded automation system built using **Raspberry Pi 4**, **Arduino Nano**, 
 
 ### Prototype
 
-![Prototype](Images/Prototype.jpg)
+![Prototype](Images/Prototype.png)
 
 ### Telegram Bot
 
